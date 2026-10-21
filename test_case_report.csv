@@ -1,0 +1,4 @@
+Test Case,Status,Details
+Normal customer,PASS,Churn probability = 0.0248
+Missing numeric value,PASS,Missing value handled; probability = 0.0248
+Unseen category,PASS,Pipeline handled input; probability = 0.0199
