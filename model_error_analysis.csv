@@ -1,0 +1,4 @@
+Model,True Negatives,False Positives,False Negatives,True Positives,Total Errors
+Logistic Regression,747,288,81,293,369
+Random Forest,851,184,143,231,327
+Gradient Boosting,940,95,178,196,273
